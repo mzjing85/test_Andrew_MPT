@@ -1,0 +1,186 @@
+[
+  {
+    "action": "BUY",
+    "date": "2026-05-11T23:34:09.373488Z",
+    "dollar_amount": 14231.04,
+    "price": 292.67999267578125,
+    "shares": 48.6232,
+    "ticker": "AAPL"
+  },
+  {
+    "action": "SELL",
+    "date": "2026-05-11T23:34:09.373531Z",
+    "dollar_amount": 14231.04,
+    "price": 739.2999877929688,
+    "shares": 19.2493,
+    "ticker": "SPY"
+  },
+  {
+    "action": "BUY",
+    "date": "2026-05-12T00:56:16.703886Z",
+    "dollar_amount": 14231.04,
+    "price": 292.67999267578125,
+    "shares": 48.6232,
+    "ticker": "AAPL"
+  },
+  {
+    "action": "SELL",
+    "date": "2026-05-12T00:56:16.703928Z",
+    "dollar_amount": 14231.04,
+    "price": 739.2999877929688,
+    "shares": 19.2493,
+    "ticker": "SPY"
+  },
+  {
+    "action": "BUY",
+    "date": "2026-05-12T00:58:05.299642Z",
+    "dollar_amount": 4000.0,
+    "price": 200.0,
+    "shares": 20.0,
+    "ticker": "AAPL"
+  },
+  {
+    "action": "SELL",
+    "date": "2026-05-14T00:43:43.966696Z",
+    "dollar_amount": 30690.5,
+    "price": 742.3099975585938,
+    "shares": 41.3446,
+    "ticker": "SPY"
+  },
+  {
+    "action": "BUY",
+    "date": "2026-05-14T00:43:43.966737Z",
+    "dollar_amount": 21884.3,
+    "price": 84.80000305175781,
+    "shares": 258.0696,
+    "ticker": "TLT"
+  },
+  {
+    "action": "BUY",
+    "date": "2026-05-14T00:43:43.966746Z",
+    "dollar_amount": 8806.2,
+    "price": 430.5,
+    "shares": 20.4557,
+    "ticker": "GLD"
+  },
+  {
+    "action": "SELL",
+    "date": "2026-05-14T00:44:28.983489Z",
+    "dollar_amount": 2226.93,
+    "price": 742.3099975585938,
+    "shares": 3.0,
+    "ticker": "SPY"
+  },
+  {
+    "action": "SELL",
+    "date": "2026-05-14T00:59:52.501454Z",
+    "dollar_amount": 5938.48,
+    "price": 742.3099975585938,
+    "shares": 8.0,
+    "ticker": "SPY"
+  },
+  {
+    "action": "SELL",
+    "date": "2026-05-14T01:00:26.259536Z",
+    "dollar_amount": 3563.09,
+    "price": 742.3099975585938,
+    "shares": 4.8,
+    "ticker": "SPY"
+  },
+  {
+    "action": "SELL",
+    "date": "2026-05-14T01:00:30.091484Z",
+    "dollar_amount": 2137.85,
+    "price": 742.3099975585938,
+    "shares": 2.88,
+    "ticker": "SPY"
+  },
+  {
+    "action": "SELL",
+    "date": "2026-05-14T01:00:32.884287Z",
+    "dollar_amount": 1282.71,
+    "price": 742.3099975585938,
+    "shares": 1.728,
+    "ticker": "SPY"
+  },
+  {
+    "action": "SELL",
+    "date": "2026-05-14T01:03:13.302559Z",
+    "dollar_amount": 10970.62,
+    "price": 742.3099975585938,
+    "shares": 14.779,
+    "ticker": "SPY"
+  },
+  {
+    "action": "BUY",
+    "date": "2026-05-14T01:03:13.302574Z",
+    "dollar_amount": 10970.62,
+    "price": 298.8699951171875,
+    "shares": 36.707,
+    "ticker": "AAPL"
+  },
+  {
+    "action": "BUY",
+    "date": "2026-05-14T03:59:29.567274Z",
+    "dollar_amount": 7247.28,
+    "price": 298.8699951171875,
+    "shares": 24.2489,
+    "ticker": "AAPL"
+  },
+  {
+    "action": "SELL",
+    "date": "2026-05-14T03:59:29.567325Z",
+    "dollar_amount": 7247.28,
+    "price": 430.5,
+    "shares": 16.8346,
+    "ticker": "GLD"
+  },
+  {
+    "action": "BUY",
+    "date": "2026-05-14T07:05:34.178554Z",
+    "dollar_amount": 17820.89,
+    "price": 742.3099975585938,
+    "shares": 24.0073,
+    "ticker": "SPY"
+  },
+  {
+    "action": "SELL",
+    "date": "2026-05-14T07:05:34.178601Z",
+    "dollar_amount": 17820.89,
+    "price": 430.5,
+    "shares": 41.3958,
+    "ticker": "GLD"
+  },
+  {
+    "action": "SELL",
+    "date": "2026-05-14T07:06:12.468652Z",
+    "dollar_amount": 29283.03,
+    "price": 742.3099975585938,
+    "shares": 39.4485,
+    "ticker": "SPY"
+  },
+  {
+    "action": "BUY",
+    "date": "2026-05-14T07:06:12.468686Z",
+    "dollar_amount": 29283.03,
+    "price": 430.5,
+    "shares": 68.021,
+    "ticker": "GLD"
+  },
+  {
+    "action": "BUY",
+    "date": "2026-05-15T18:04:42.057100Z",
+    "dollar_amount": 1410.6,
+    "price": 743.10009765625,
+    "shares": 1.8983,
+    "ticker": "SPY"
+  },
+  {
+    "action": "SELL",
+    "date": "2026-05-15T18:04:42.057175Z",
+    "dollar_amount": 1410.6,
+    "price": 418.57000732421875,
+    "shares": 3.37,
+    "ticker": "GLD"
+  }
+]
