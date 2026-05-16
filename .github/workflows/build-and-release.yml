@@ -67,11 +67,13 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
+        shell: bash
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt pyinstaller pywebview
 
       - name: Build Windows executable
+        shell: bash
         run: |
           pyinstaller --noconfirm --onefile --windowed \
             --name "IntervalTrainer" \
